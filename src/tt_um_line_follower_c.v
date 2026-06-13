@@ -1,4 +1,4 @@
-module tt_um_line_follower ( 
+module tt_um_line_follower_c ( 
     input  wire        clk,
     input  wire        ena,
     input  wire        rst_n,        
