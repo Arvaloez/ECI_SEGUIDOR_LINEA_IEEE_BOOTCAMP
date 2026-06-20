@@ -1,4 +1,4 @@
-module tt_um_line_follower_c ( 
+module tt_um_line_follower_arvaloez ( 
     input  wire        clk,
     input  wire        ena,
     input  wire        rst_n,        
